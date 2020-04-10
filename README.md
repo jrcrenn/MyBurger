@@ -4,7 +4,7 @@ A simple React application to create your burger.
 
 ## Demo & examples
 
-Live demo: [negomi.github.io/react-burger-menu](https://negomi.github.io/react-burger-menu/)
+Live demo: [jrcrenn.github.io/MyBurger/](https://jrcrenn.github.io/MyBurger/)
 
 To build the examples locally, run:
 
