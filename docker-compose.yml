@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  sample:
+    container_name: MyBurger
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/usr/app'
+
+    ports:
+      - 3000:3000
